@@ -7,4 +7,4 @@ Time series or linear regression is used for predicting values according to tren
 demo-
 https://bosco98.github.io/Time-series/
 
-open console to view output
+(open console to view output)
