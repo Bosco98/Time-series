@@ -8,3 +8,6 @@ demo-
 https://bosco98.github.io/Time-series/
 
 (open console to view output)
+
+#### I know this is noob but I was kid while I was doing this 
+
